@@ -1,2 +1,7 @@
-print('256', '844', '808', sep='.', end='-')
+print (123456)
+print('Hello World!')
+print('Conrado', 'Bolonha', sep='-', end=' ')
+print(256, 844, 808, sep='.', end='-')
 print(37)
+print('1', '2', '3', '4', '5', '6', sep='.', end=' - ')
+print('Olá')
