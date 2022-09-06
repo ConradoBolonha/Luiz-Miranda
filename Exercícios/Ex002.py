@@ -8,7 +8,7 @@ num = input('Digite um número: ')
 
 if num.isnumeric():
     num = int(num)
-    if num % 2 ==0:
+    if num % 2 == 0:
         print(f'Você digitou o número {num} e esté é "PAR".')
     else: print(f'Você digitou o número {num} e este é "ÍMPAR".')
 else:
