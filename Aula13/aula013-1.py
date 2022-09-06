@@ -13,3 +13,4 @@ print(texto[7:]) #  Vai imprimir a palavra "Brasil"
 print(texto[-13:-7]) #  Vai imprimir a palavra "Python"
 print(texto[::2]) #  Imprime "Pto rsl". [::2] pula de 2 em 2
 print(texto[7::2]) # Imprime "Bai". Começa do caracter 7 e vai até o fim pulando de 2 em 2 
+print(texto)
