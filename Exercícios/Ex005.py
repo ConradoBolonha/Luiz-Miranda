@@ -1,3 +1,5 @@
+### CALCULANDO TABUADA ###
+
 print()
 valor = int(input('Entre com um número para saber a tabuada: '))
 aux = 0
